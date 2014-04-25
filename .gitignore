@@ -1,13 +1,19 @@
+#Vagrant
 .vagrant
+
+#Berkshelf
 Berksfile.lock
+
+#Commons
 *~
 *#
 .#*
 \#*#
 .*.sw[a-z]
 *.un~
+
+#Chef
 /cookbooks
-/vendor
 
 # Bundler
 Gemfile.lock
